@@ -1,12 +1,6 @@
 <!-- CI -->
 
-[![CI](https://github.com/HomeMichi/GateWatch/actions/workflows/ci.yml/badge.svg)](https://github.com/HomeMichi/GateWatch/actions/workflows/ci.yml)
-
-<!-- Coverage (Codecov or Coveralls – pick one) -->
-
-[![codecov](https://img.shields.io/codecov/c/github/HomeMichi/GateWatch.svg)](https://app.codecov.io/gh/HomeMichi/GateWatch)
-
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/HomeMichi/GateWatch/main.svg)](https://results.pre-commit.ci/latest/github/HomeMichi/GateWatch/main)
+[![CI](https://github.com/HomeMichi/GateWatch/actions/workflows/ci.yml/badge.svg)](https://github.com/HomeMichi/GateWatch/actions/workflows/ci.yml) | [![codecov](https://img.shields.io/codecov/c/github/HomeMichi/GateWatch.svg)](https://app.codecov.io/gh/HomeMichi/GateWatch) | [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/HomeMichi/GateWatch/main.svg)](https://results.pre-commit.ci/latest/github/HomeMichi/GateWatch/main)
 
 ## About
 
